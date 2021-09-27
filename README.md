@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there, I am a 13 year old passionate about programming, specializing in Game Development with Unity. Have worked on a few projects before but haven't created any final projects. Look forward to working with you. 🙂
 
-<!--
-**IK-49/IK-49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Currently learning C#, Python, Unity API, and OOP Fundementals.
 
-Here are some ideas to get you started:
+##  Not looking for work as I am busy with school.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Ask me about anything and if I am available, I'll respond.
+
+##  You can reach me at khokharizad@gmail.com.
+
+##  He/Him
+ 
+## ***I am enough artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. - Albert Einstein***
+

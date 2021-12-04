@@ -1,12 +1,12 @@
-## Hey there, I am a 13 year old passionate about programming, specializing in Game Development with Unity. Have worked on a few projects before but haven't finished any official project. Look forward to working with you. 🙂
+## Hey there, I am a 13 year old passionate about programming and Video Game Development. Have worked on a few prototypes before but haven't shipped any official project. Look forward to working with you. 🙂
 
-###  Currently learning C#, Python, Unity API, and OOP Fundementals. 🖥️
+###  Currently learning C#, Python, and the Unity Game Engine. 🖥️
 
-###  Not looking for work as I am busy with school. 🏫
+###  Not LFW as I am busy with school. 🏫
 
 ###  Ask me about anything and if I am available, I'll respond. 💬
 
-###  You can reach me at khokharizad@gmail.com. ✉️ 
+###  You can reach out to me at khokharizad@gmail.com. ✉️ 
 
 ###  Pronouns: He/Him 
  

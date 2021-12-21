@@ -1,6 +1,6 @@
 ## Hey there, I am a 13 year old passionate about programming and Video Game Development. Have worked on a few prototypes before but haven't shipped any official project. Look forward to working with you. 🙂
 
-###  Currently learning C#, Python, and the Unity Game Engine. 🖥️
+###  Currently learning C#, HTML/CSS/JS, Python, and the Unity Game Engine. 🖥️
 
 ###  Not LFW as I am busy with school. 🏫
 

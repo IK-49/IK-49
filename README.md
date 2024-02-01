@@ -1,4 +1,4 @@
-## Hey there! I am a 15 year old passionate about programming and developing websites as well as apps. Look forward to working with you. 🙂
+## Hey there! I am a 16 year old passionate about programming and developing websites as well as apps. Look forward to working with you. 🙂
 
 ###  Currently learning C#, HTML/CSS/JS, Python, and Java. 🖥️
 

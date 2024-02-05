@@ -1,16 +1,13 @@
-## Hey there! I am a 16 year old passionate about programming and developing websites as well as apps. Look forward to working with you. 🙂
+## 👋 Hey there!
 
-###  Currently learning C#, HTML/CSS/JS, Python, and Java. 🖥️
+I'm a 16-year-old programming enthusiast with a passion for software development, hardware, and game development. Currently, I am learning C++, C#, HTML/CSS/JS, Python, and Java to expand my skills and explore the vast world of software development. 🖥️
 
-###  Not LFW as I am busy with school. 🏫
+🏫 **Not Looking for Work (LFW)** at the moment due to school commitments, but always open to connecting and discussing tech-related topics. Feel free to ask me anything, and if I'm available, I'll respond promptly. 💬
 
-###  Ask me about anything and if I am available, I'll respond. 💬
+✉️ **Reach out to me at [khokharizad@gmail.com](mailto:khokharizad@gmail.com)** if you have questions, opportunities, or just want to connect. Pronouns: He/Him.
 
-###  You can reach out to me at khokharizad@gmail.com. ✉️ 
+📊 **Check out my GitHub stats:** 
 
-###  Pronouns: He/Him 
- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IK-49&count_private=true&show_icons=true&theme=dracula)
 
-#### *I am enough artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. - Albert Einstein*
-
+*"I am enough artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein* 🌌

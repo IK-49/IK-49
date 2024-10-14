@@ -6,4 +6,9 @@ I'm a 16-year-old programming enthusiast with a passion for game, mobile, and we
 
 ✉️ **Reach out to me at [khokharizad@gmail.com](mailto:khokharizad@gmail.com)** if you have questions, opportunities, or just want to connect. Pronouns: He/Him.
 
+📊 **Check out my GitHub stats:** 
+  
+  ⚡ Izad's Github Stats
+  <img align="left" src="github-readme-stats-ten-blush-36.vercel.app/api?username=IK-49&count_private=true&show_icons=true&theme=tokyonight"/>
+
 *"I am enough artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein* 🌌

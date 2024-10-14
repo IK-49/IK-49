@@ -8,7 +8,8 @@ I'm a 16-year-old programming enthusiast with a passion for game, mobile, and we
 
 📊 **Check out my GitHub stats:** 
   
-  ⚡ Izad's Github Stats
-  <img align="left" src="github-readme-stats-ten-blush-36.vercel.app/api?username=IK-49&count_private=true&show_icons=true&theme=tokyonight"/>
+[![Anurag's GitHub stats](https://github-readme-stats-ten-blush-36.vercel.app/api?username=IK-49&theme=tokyonight&hide_rank=true)](https://github.com/IK-49/github-readme-stats)   
+
+[![Top Langs](https://github-readme-stats-ten-blush-36.vercel.app/api/top-langs/?username=IK-49&layout=pie&hide=ShaderLab,HLSL,SCSS,CMake&theme=tokyonight)](https://github.com/IK-49/github-readme-stats)
 
 *"I am enough artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein* 🌌

@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-I'm a 16-year-old programming enthusiast with a passion for game, mobile, and web development! Currently, I am learning C++, Java, C#, and Dart / Flutter to expand my skills and explore the vast world of software development. 🖥️
+I'm a 17-year-old programming enthusiast passionate about all things computer science from mobile app and game development to AI/ML, Data Science, and Low-level Progrmaming!
 
 🏫 **Not Looking for Work (LFW)** at the moment due to school commitments, but always open to connecting and discussing tech-related topics. Feel free to ask me anything, and if I'm available, I'll respond promptly. 💬
 

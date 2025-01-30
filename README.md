@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-I'm a 17-year-old programming enthusiast passionate about all things computer science from mobile app and game development to AI/ML, Data Science, and Low-level Progrmaming!
+I'm a 17-year-old programming enthusiast passionate about all things computer science from mobile app and game development to AI/ML, Data Science, and low-level programming!
 
 🏫 **Not Looking for Work (LFW)** at the moment due to school commitments, but always open to connecting and discussing tech-related topics. Feel free to ask me anything, and if I'm available, I'll respond promptly. 💬
 

@@ -1,6 +1,11 @@
-## 👋 Hey there!
+### Hi, I'm Izad 👋
+**CS + Statistics @ UNC Chapel Hill** | Building scalable backend systems & data infrastructure
 
-I'm an 18-year-old programming enthusiast passionate about all things computer science, from mobile app and game development to AI/ML, Data Science, and low-level programming!
+💻 **Languages:** Python, Java, C#, SQL, R
+
+🛠️ **Backend & Tools:** Docker, Flask, Firebase, Git, Linux
+
+🎯 **Currently Learning:** Swift/SwiftUI
 
 ✉️ **Reach out to me at [khokharizad@gmail.com](mailto:khokharizad@gmail.com)** if you have questions, opportunities, or just want to connect. Pronouns: He/Him.
 
